@@ -42,7 +42,7 @@
 
 /* Hover effect for the background image */
 .main-title:hover {
-  transform: scale(1.01); /* Scale the background image */
+  transform: scale(1.01l); /* Scale the background image */
 }
 
 /* Media Query for responsiveness */
